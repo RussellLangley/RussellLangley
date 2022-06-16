@@ -1,6 +1,6 @@
 Greetings!
 
-- Computer Engineer at Algonquin. Interersted in all things space and computer science. 
+- Computer Programming Student at Algonquin College. Interested in all things science and tech. Cheers!
 
 <!---
 RussellLangley/RussellLangley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
