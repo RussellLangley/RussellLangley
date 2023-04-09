@@ -1,6 +1,6 @@
 Greetings!
 
-- Computer Programming Student at Algonquin College. Interested in all things science and tech. Cheers!
+- I'm a student of life, interested in all things science and tech. Not much to see here besides some coding tomfoolery and various backups. Cheers!
 
 <!---
 RussellLangley/RussellLangley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
